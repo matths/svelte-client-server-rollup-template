@@ -2,6 +2,8 @@
   "name": "svelte-client-server-rollup-template",
   "version": "1.0.0",
   "description": "Svelte Client/Server Rollup template",
+  "license" : "MIT",
+  "repository": "github:matths/svelte-client-server-rollup-template",
   "scripts": {
     "create-ssl": "cd ./build/server/ssl && ./create.sh",
     "build": "rollup -c",

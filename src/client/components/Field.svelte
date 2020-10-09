@@ -15,4 +15,4 @@
 	}
 </style>
 
-<div on:click style="left: {x*30}px; top: {y*30}px; background: {c?'gray':'white'};"></div>
+<div on:click id="field{i}" style="left: {x*30}px; top: {y*30}px; background: {c?'gray':'white'};"></div>
