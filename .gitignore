@@ -1,0 +1,7 @@
+/node_modules/
+/build/client/compiled
+/build/server/ssl/certs
+/build/server/ssl/private
+/build/server/index.js
+package-lock.json
+.DS_Store
